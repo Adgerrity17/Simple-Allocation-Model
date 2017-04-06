@@ -1,2 +1,3 @@
-# Simple-Allocation-Model
-Simple allocation model for 10 individual stocks with equal weighting
+# Simple-Expected Return-Model
+Simple allocation model for 2 individual stocks with equal weighting
+Expected return and Variance based upon, weighting, St Dev, and Correlation   
